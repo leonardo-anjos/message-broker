@@ -4,11 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "send": "nodemon src/send.js",
-    "receive": "nodemon src/receive.js",
-    "task": "nodemon src/task.js",
-    "worker": "nodemon src/worker.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
